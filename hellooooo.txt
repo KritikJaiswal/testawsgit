@@ -5,5 +5,7 @@ heyyy i am updating it!!!!!!
 testing git pull
 
 heyyy updating again
-helloooo i am abc
-i am testinhg git pull
+
+
+git pull --- get latest changes from git to local
+git push ---- to push latest changes from local to git
